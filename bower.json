@@ -1,0 +1,24 @@
+{
+  "name": "PolyTest",
+  "homepage": "https://github.com/frisinacho/PolyTest",
+  "authors": [
+    "Ignacio Lasaosa Sáez <frisinacho@gmail.com>"
+  ],
+  "description": "Small repository to test Polymer and all its features.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
